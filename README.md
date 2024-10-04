@@ -11,10 +11,10 @@ This project focuses on recognizing handwritten digits using a machine learning 
 The dataset used for this project can be downloaded from Kaggle:
 
 
-**Dataset Name:**
+**Dataset Link:**
 
 
-     Kaggle Dataset Link: https://www.kaggle.com/competitions/digit-recognizer
+     https://www.kaggle.com/competitions/digit-recognizer
 
 
 The dataset contains images of handwritten digits from 0 to 9.
